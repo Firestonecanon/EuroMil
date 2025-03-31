@@ -1,0 +1,11 @@
+{
+    "executionEnvironments": [
+        {
+            "root": ".",
+            "extraPaths": [
+                "C:/Users/fires/AppData/Local/Programs/Python/Python313/Lib/site-packages"
+            ]
+        }
+    ],
+    "typeCheckingMode": "basic"
+}
